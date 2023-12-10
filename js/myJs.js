@@ -138,7 +138,7 @@ $(document).ready(function () {
           text: textConfig.text11,
           confirmButtonColor: "#83d0c9",
           onClose: () => {
-            window.location = "https://fb.com/hongphi20112001";
+            window.location = "https://www.facebook.com/profile.php?id=100060257391667";
           },
         });
       }
